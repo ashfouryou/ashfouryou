@@ -45,7 +45,7 @@ I am a Software Engineer with a passion for developing robust and scalable softw
 ## 🛠️ Skills
 
 - **Languages:** PHP, JavaScript
-- **Frameworks & Libraries:** Laravel, CodeIgniter, Vue.js, Inertia.js, jQuery, Tailwind, Bootstrap
+- **Frameworks & Libraries:** Laravel, CodeIgniter, Vue.js, Inertia.js, jQuery, Tailwind, Bootstrap, Joomla
 - **Technologies:** WebSockets, JSON, HTML, CSS, RESTful APIs, MVC, LAMP stack, VILT stack, Git
 - **Specialties:** API Integration, Query Optimization, Single Page Applications, Progressive Web Applications
 
