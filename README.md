@@ -84,13 +84,4 @@ Developed and deployed a social networking web application using PHP and MySQL.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
----
 
-## 🤝 Connect with Me
-
-- LinkedIn: [linkedin.com/in/ashishkumar](https://www.linkedin.com/in/ashishkumar)
-- Personal Website: [ashishkumar.dev](https://ashishkumar.dev)
-
----
-
-Let's collaborate and create something amazing together!
