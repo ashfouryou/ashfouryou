@@ -2,8 +2,6 @@
 
 ### Passionately tackling real-world challenges through the innovative application of internet technologies
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-
 - 📧 Email: [ashishkumar@vstreamhd.in](mailto:ashishkumar@vstreamhd.in)
 - 📍 Location: Delhi NCR, India
 
@@ -76,12 +74,6 @@ Developed and deployed a social networking web application using PHP and MySQL.
 *Lovely Professional University*  
 *July 2018 - May 2022*
 
----
 
-## 📈 GitHub Stats
-
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 
